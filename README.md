@@ -4,4 +4,4 @@
 
 To execute the program, use the following options
 
-java -Djava.util.logging.config.file=$PATH_TO_LOGGING_PROPERTIES_FILE/logging.properties $PATH_TO_SODUKU_SOLUTION_FILE
+java -Djava.util.logging.config.file=$PATH_TO_LOGGING_PROPERTIES_FILE/logging.properties com.deepak.games.sudoku.SudokuSolverMain $PATH_TO_SODUKU_SOLUTION_FILE
